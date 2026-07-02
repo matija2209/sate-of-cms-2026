@@ -1,7 +1,7 @@
 # The Mid-Market CMS Decision Report 2026
 
-> Version: 0.1 (skeleton)
-> Last updated: 2026-07-01
+> Version: 1.0 (full draft)
+> Last updated: 2026-07-02
 
 A decision-first report for mid-market B2B companies planning a website rebuild, CMS migration, localization rollout, multi-brand architecture, or move toward a more flexible headless/custom CMS setup.
 
